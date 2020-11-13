@@ -25,7 +25,7 @@ html {
 /* Css common for the body tag  */
 body {
   margin:0;
-    background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ),url("./images/backgroundImage1.jpg");
+    background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ),url("../images/backgroundImage1.jpg");
 /*   filter: brightness(70%); */
 }
 
