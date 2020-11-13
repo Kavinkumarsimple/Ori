@@ -40,7 +40,7 @@ body {
   position: fixed;
   z-index: 1;
   right: 0;
-  background-color:rgba(0, 0, 0, 0.9);
+  background-color:#000000;
   overflow-x: hidden;
   transition: 0.5s;
   padding-top: 30px;
@@ -54,7 +54,7 @@ body {
   text-decoration: none;
   text-align:center;
   font-size: 1.6em;
-  color:white;
+  color:#FFFFFF;
   display: block;
   transition: 0.3s;
   font-family: customFont4;
