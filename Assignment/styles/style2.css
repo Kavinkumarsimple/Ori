@@ -9,6 +9,10 @@
     margin-right:auto;
 }
 
+.slideshow_container {
+    position:absolute;
+}
+
 .homeImageContainer {
     max-height: 600px;
 }
