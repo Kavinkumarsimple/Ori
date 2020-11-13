@@ -32,12 +32,11 @@
 
 .teaTypes {
     height: 650px;
-    filter: brightness(60%);
     /* transform: rotate(90deg); */
 }
 /* Slight adjustment for the slide 2 brightness */
 .slideImages2 {
-    filter: brightness(70%);
+    
 }
 
 /* CSS for the container that holds the text which is showed inside the slide */
