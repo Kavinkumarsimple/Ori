@@ -53,13 +53,12 @@ body {
   padding: 14px 8px 14px 8px;
   text-decoration: none;
   text-align:center;
-  font-size: 1.6em;
+  font-size: 1em;
   color:#FFFFFF;
   display: block;
   transition: 0.3s;
-  font-family: customFont4;
-  font-weight: bolder;
-  white-space: nowrap;
+  font-family: customFont;
+/*   white-space: nowrap; */
 }
 
 /* CSS on hover over the text inside the navigation pannel */
