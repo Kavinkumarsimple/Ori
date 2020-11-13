@@ -54,7 +54,7 @@ body {
   text-align:center;
   font-size: 1.6em;
   color:#FFFFFF;
-/*   display: block; */
+  display: block;
   transition: 0.3s;
   font-family: customFont4;
 /*   white-space: nowrap; */
