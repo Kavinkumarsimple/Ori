@@ -26,7 +26,7 @@ html {
 body {
   margin:0;
     background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ),url("images/backgroundImage1.jpg");
-  filter: brightness(70%);
+/*   filter: brightness(70%); */
 }
 
 /* CSS for the side navigation pannel for the moile view  */
