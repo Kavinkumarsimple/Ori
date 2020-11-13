@@ -31,7 +31,6 @@ body {
 
 /* CSS for the side navigation pannel for the moile view  */
 .sidenav {
-  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.2), 0 4px 12px 0 rgba(0, 0, 0, 0.19);
   grid-area: navBar;
   position: absolute;
   top:72px;
@@ -53,11 +52,11 @@ body {
   padding: 14px 8px 14px 8px;
   text-decoration: none;
   text-align:center;
-  font-size: 1em;
+  font-size: 1.6em;
   color:#FFFFFF;
-  display: block;
+/*   display: block; */
   transition: 0.3s;
-  font-family: customFont;
+  font-family: customFont4;
 /*   white-space: nowrap; */
 }
 
@@ -80,7 +79,7 @@ body {
   width:100%;
   height:70px;
   background-color: white;
-  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.2), 0 4px 12px 0 rgba(0, 0, 0, 0.19);
+/*   box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.2), 0 4px 12px 0 rgba(0, 0, 0, 0.19); */
   border-bottom:1px #16650A solid;
   position: sticky;
   top:0;
