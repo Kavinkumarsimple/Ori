@@ -153,6 +153,7 @@ body {
   height:auto;
   background-color: white;
   margin:auto;
+  position:absolute;
   /* margin-left: auto;
   margin-top:auto;
   margin-right: auto; */
