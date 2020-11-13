@@ -37,7 +37,7 @@ body {
   top:72px;
   height: auto;
   width: 0;
-  position: fixed;
+/*   position: fixed; */
   z-index: 1;
   right: 0;
   background-color: white;
@@ -55,7 +55,7 @@ body {
   text-align:center;
   font-size: .9em;
   color: black;
-/*   display: inline; */
+  display: block;
   transition: 0.3s;
   font-family: customFont;
   white-space: nowrap;
