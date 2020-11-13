@@ -33,7 +33,7 @@ body {
 .sidenav {
   box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.2), 0 4px 12px 0 rgba(0, 0, 0, 0.19);
   grid-area: navBar;
-  position: absolute;
+  position: static;
 /*   top:72px; */
   height: auto;
   width: 0;
