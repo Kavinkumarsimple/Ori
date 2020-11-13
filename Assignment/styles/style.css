@@ -69,7 +69,7 @@ body {
   background-color: white;
   box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.2), 0 4px 12px 0 rgba(0, 0, 0, 0.19);
   border-bottom:1px #16650A solid;
-  position: sticky;
+  position: unset;
   top:0;
   display:grid;
   grid-template-rows: 70px;
@@ -86,7 +86,7 @@ body {
   /* box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.2), 0 3px 10px 0 rgba(0, 0, 0, 0.19); */
   /* border-radius: 10px; */
   display: block;
-  position:sticky;  
+  position:unset;  
   margin:5px auto auto auto;
   /* margin-left: auto;
   margin-right:auto;
@@ -883,7 +883,7 @@ body {
 /* CSS for the Header Container, changes to match the desktop  */
 .container {
   top:0;
-  position:sticky;
+  position:unset;
   display:block;
   width:1200px;
   height:auto;
@@ -913,7 +913,7 @@ body {
   overflow-x: visible;
   transition:unset;
   /* position: relative; */
-  position:sticky;
+  position:unset;
   display:inline-block;
   width:auto;
   left:0;
@@ -926,7 +926,7 @@ body {
 
 /* CSS for the changes to the text inside the navigatio pannel */
 .sidenav a {
-  position:sticky;
+  position:unset;
   display: inline;
   /* border-radius: 25px; */
   padding: 8px 20px 8px 20px; 
