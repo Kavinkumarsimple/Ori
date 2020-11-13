@@ -57,7 +57,7 @@ body {
 /* CSS for the header container  */
 .container {
   top:0;
-  position: sticky;
+  position: unset;
   width:auto;
   z-index:100;
 }
