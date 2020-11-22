@@ -7,8 +7,7 @@ const CACHE_URLS =  [
   
                      'buynow.html',
                      'scripts/main.js',
-                      'scripts/navcontrols.js',
-                      'images/'
+                      'scripts/navcontrols.js'
                      ];
 
 
