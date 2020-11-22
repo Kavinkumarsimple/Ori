@@ -4,6 +4,11 @@ const CACHE_URLS =  [
                      'https://kavinkumarsimple.github.io/Ori/V2New/index.html',
                     'styles/style.css',
                     'styles/style2.css',
+  
+                     'buynow.html',
+                     'scripts/main.js',
+                      'scripts/navcontrols.js',
+                      'images/'
                      ];
 
 
