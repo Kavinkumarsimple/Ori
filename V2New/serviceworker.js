@@ -1,6 +1,7 @@
 //set up cache name and files to add to it
 const CACHE_NAME = 'TeaHouse_Cache';
 const CACHE_URLS =  ['index.html',
+                     'https://kavinkumarsimple.github.io/Ori/V2New/index.html',
                     'styles/style.css',
                     'styles/style2.css',
                     'manifest.json'
