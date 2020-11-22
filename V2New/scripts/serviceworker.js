@@ -2,9 +2,9 @@
 const CACHE_NAME = 'TeaHouse_Cache';
 const CACHE_URLS =  [
                      'https://kavinkumarsimple.github.io/Ori/V2New/index.html',
-                    '../style.css',
-                    '../style2.css',
-                     '../buynow.html',
+                    './style.css',
+                    './style2.css',
+                     './buynow.html',
                      
                      'main.js',
                       'navcontrols.js'
