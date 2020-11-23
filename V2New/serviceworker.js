@@ -4,7 +4,7 @@ const CACHE_URLS =  [
                      'index.html',
                     'styles/style.css',
                     'styles/style2.css',
-                     
+                     'manifest.json',
                      'scripts/main.js',
                       'scripts/navcontrols.js'
                      ];
