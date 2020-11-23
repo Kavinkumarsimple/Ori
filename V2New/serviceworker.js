@@ -2,8 +2,6 @@
 const CACHE_NAME = 'TeaHouse_Cache';
 const CACHE_URLS =  [
                      'index.html',
-                     'index.html?homescreen=1',
-                     '?homescreen=1',
                     'styles/style.css',
                     'styles/style2.css',
                      'scripts/main.js',
