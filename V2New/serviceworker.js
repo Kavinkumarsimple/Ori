@@ -6,7 +6,6 @@ const CACHE_URLS =  [
                      '?homescreen=1',
                     'styles/style.css',
                     'styles/style2.css',
-                     'manifest.json',
                      'scripts/main.js',
                       'scripts/navcontrols.js'
                      ];
